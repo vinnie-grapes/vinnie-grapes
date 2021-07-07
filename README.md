@@ -1,4 +1,17 @@
-### Hi there 👋
+## Konnichiwa :shinto_shrine:	
+
+### Wellcome to my GitHub 😎
+
+I'm Vladislav, 
+QA engineer from Saint-Petersburg.
+
+- 👨‍💻 3+ years expierence in fullstack testing
+- 🌱 I’m currently learning Automation tools and practices with QA.guru
+
+### Contacts
+- ✈️ Telegram - @vinnie_grapes
+- 📧 e-mail - vingrapes@gmail.com
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnie-grapes)](https://github.com/vinnie-grapes/github-readme-stats)
 
 <!--
