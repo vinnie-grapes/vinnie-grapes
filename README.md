@@ -12,8 +12,6 @@ QA engineer from Saint-Petersburg.
 - ✈️ Telegram - @vinnie_grapes
 - 📧 e-mail - vingrapes@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnie-grapes)](https://github.com/vinnie-grapes/github-readme-stats)
-
 <!--
 **vinnie-grapes/vinnie-grapes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
