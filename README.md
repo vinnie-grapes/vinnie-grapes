@@ -6,8 +6,7 @@ I'm Vladislav,
 QA engineer from Saint-Petersburg.
 
 - 👨‍💻 3+ years expierence in fullstack testing
-- 🌱 I’m currently learning Automation tools and practices with QA.guru
-
+- 
 ### Contacts
 - ✈️ Telegram - @vinnie_grapes
 - 📧 e-mail - vingrapes@gmail.com
