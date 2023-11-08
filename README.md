@@ -3,9 +3,9 @@
 ### Wellcome to my GitHub 😎
 
 I'm Vladislav, 
-QA engineer from Saint-Petersburg.
+QA engineer from Belgrade.
 
-- 👨‍💻 3+ years expierence in fullstack testing
+- 👨‍💻 5+ years expierence in fullstack testing
 
 ### Contacts
 - ✈️ Telegram - @vinnie_grapes
