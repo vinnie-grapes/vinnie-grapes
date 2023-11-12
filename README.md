@@ -1,6 +1,6 @@
 ## Konnichiwa :shinto_shrine:	
 
-### Wellcome to my GitHub 😎
+### Welcome to my GitHub 😎
 
 I'm Vladislav, 
 QA engineer from Belgrade.
